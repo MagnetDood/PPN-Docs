@@ -43,7 +43,7 @@ BattleChips
 **Bopsicle** [Impact | 3 Damage | Close] A frozen battering ram! Can instead be used to heal you and an ally for 2 HP each. (Awkward)  
 **PencilPush** [Impact | 2 Damage | Close] Stab with a big pencil! Can also be used to write and erase messages on the Network. (Piercing)
 **BalanceStaff** [Impact | 2 Damage | Close] A mystic staff. Pick 1: heal for damage dealt or remove skill reductions from enemy attacks. (Awkward)  
-**ColdPunch** [Impact | 2 Damage | Close] Spend 1 Strength to pick 1: upshifts target’s next Body roll; creates ice around your hands. (Slow)
+**ColdPunch** [Impact | 3 Damage | Close] Spend 1 Strength to pick 1: upshifts target’s next Body roll; creates ice around your hands. (Slow)
 **KnuckleSpikes** [Impact | 2 Damage | Close] Can instead be used to climb a solid surface or rapidly burrow through soft ground.  
 **RewindDash** [Rush | Near] Move a range band; damaged structures/objects you touch are returned to their original state.  
 **SharkAttack** [Summon | 3 Damage | Near] A shark Virus prowls the area. If a target is injured or fails a Bravery roll when it is Close, it attacks them. (Dangerous, Piercing)  
