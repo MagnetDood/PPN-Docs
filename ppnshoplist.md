@@ -54,7 +54,7 @@ BattleChips
 **Tetris** [Wave | 2 Damage | Near] Colorful falling blocks! Spend 1 Coding to pick 1: blocks linger, hits twice, is Accurate. (Awkward)
 
 ## NCPs
----
+
 **500z**
 **ActionReplay** [1 EB] - On NetOp critical success, the PET autoposts a cool picture of it on social media.  
 **BaRecycle** [1 EB] - You can turn shield chips (Barrier, IronShield, etc) into your element after slot-in.  
