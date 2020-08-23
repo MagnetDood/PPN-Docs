@@ -72,20 +72,20 @@ BattleChips
 **ThemeSong** [1 EB] - On Jack-in, your presence has a loud, colorful fanfare, drawing all attention to you.  
 
 **1000z**
-**Any 1 [EB] NPU**
-**DataMine** [2 EB] -  Can turn Thrown chips into mines! They target whoever touches or attacks them.
-**PassengerMode** [2 EB] - When you use Rush chips, you can take a Close target with you.
-**Pettaur** [2 EB] - A Mettaur-like pet! It can't attack, obeys basic orders, and disappears for a bit if hit.
-**SearchOptimized** [2 EB] - Pick a descriptor - NPCs will associate you with that word unless they know better.
+**Any 1 [EB] NPU**  
+**DataMine** [2 EB] -  Can turn Thrown chips into mines! They target whoever touches or attacks them.  
+**PassengerMode** [2 EB] - When you use Rush chips, you can take a Close target with you.  
+**Pettaur** [2 EB] - A Mettaur-like pet! It can't attack, obeys basic orders, and disappears for a bit if hit.  
+**SearchOptimized** [2 EB] - Pick a descriptor - NPCs will associate you with that word unless they know better.  
 
 **1500z**
-**BladeRun** [2 EB] - You can move a range band without rolling when attacking with a Blade chip.
-**CashOut** [2 EB] - Spend 600z to add one die to a roll. (Use before rolling.)
-**Diffusal** [2 EB] - When something reduces one of your skills by 1, your element appears Close to you.
-**EjectButton** [2 EB] - Once per jack-in, you can spring a range band in any direction. Can still act in midair.
-**KineticArmor** [3 EB] - After you take damage, downshift your next roll to move a range band.
-**RocketFist** [2 EB] - You can use Impact chips at Near. Makes chips Dangerous. Cannot parry at range.
-**SetElement** [2 EB] - On jack-in, your element appears around you; if you use it immediately, downshift.
-**Skill+1** [2 EB] - Add +1 to a skill of your choice. Cannot be changed to another skill once chosen.
-**SuperArmor** [2 EB] - If in the middle of an attack, ignore stun/interrupting effects until your attack ends.
-**WaveRider** - [2 EB] When you use a Wave BattleChip at Near range, you can enter Close range of a target.
+**BladeRun** [2 EB] - You can move a range band without rolling when attacking with a Blade chip.  
+**CashOut** [2 EB] - Spend 600z to add one die to a roll. (Use before rolling.)  
+**Diffusal** [2 EB] - When something reduces one of your skills by 1, your element appears Close to you.  
+**EjectButton** [2 EB] - Once per jack-in, you can spring a range band in any direction. Can still act in midair.  
+**KineticArmor** [3 EB] - After you take damage, downshift your next roll to move a range band.  
+**RocketFist** [2 EB] - You can use Impact chips at Near. Makes chips Dangerous. Cannot parry at range.  
+**SetElement** [2 EB] - On jack-in, your element appears around you; if you use it immediately, downshift.  
+**Skill+1** [2 EB] - Add +1 to a skill of your choice. Cannot be changed to another skill once chosen.  
+**SuperArmor** [2 EB] - If in the middle of an attack, ignore stun/interrupting effects until your attack ends.  
+**WaveRider** - [2 EB] When you use a Wave BattleChip at Near range, you can enter Close range of a target.  
