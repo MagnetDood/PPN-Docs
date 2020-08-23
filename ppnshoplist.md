@@ -55,7 +55,7 @@ BattleChips
 
 ## NCPs
 
-**500z**
+**500z:**  
 **ActionReplay** [1 EB] - On NetOp critical success, the PET autoposts a cool picture of it on social media.  
 **BaRecycle** [1 EB] - You can turn shield chips (Barrier, IronShield, etc) into your element after slot-in.  
 **Brand** [1 EB] - You can mark anything with your symbol. This mark acts like a hand-sized sticker.  
@@ -71,14 +71,14 @@ BattleChips
 **ProgRadar** [1 EB] - Beeps depending on proximity to nearest ProgForm.  
 **ThemeSong** [1 EB] - On Jack-in, your presence has a loud, colorful fanfare, drawing all attention to you.  
 
-**1000z**
+**1000z:**  
 **Any 1 [EB] NPU**  
 **DataMine** [2 EB] -  Can turn Thrown chips into mines! They target whoever touches or attacks them.  
 **PassengerMode** [2 EB] - When you use Rush chips, you can take a Close target with you.  
 **Pettaur** [2 EB] - A Mettaur-like pet! It can't attack, obeys basic orders, and disappears for a bit if hit.  
 **SearchOptimized** [2 EB] - Pick a descriptor - NPCs will associate you with that word unless they know better.  
 
-**1500z**
+**1500z:**  
 **BladeRun** [2 EB] - You can move a range band without rolling when attacking with a Blade chip.  
 **CashOut** [2 EB] - Spend 600z to add one die to a roll. (Use before rolling.)  
 **Diffusal** [2 EB] - When something reduces one of your skills by 1, your element appears Close to you.  
