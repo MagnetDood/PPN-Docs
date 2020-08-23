@@ -1,4 +1,4 @@
-##BattleChips
+BattleChips
 ---
 
 **500z:**  
