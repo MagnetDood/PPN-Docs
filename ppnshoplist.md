@@ -21,18 +21,18 @@ BattleChips
 **1000z:**  
 **CrystalBlade** [Blade | 2 Damage | Close] A gleaming crystal blade. Can instead be used to reveal & stun Near invisible targets.  
 **PaladinSword** [Blade | 2 Damage | Close] Can instead be used to defend a Close ally, reducing the damage to them by 2.  
-**FinalBlow** [Impact | 2 Damage | Close] If this deletes, target is sent flying back, damaging everyone and everything in their path. (Dangerous)
+**FinalBlow** [Impact | 2 Damage | Close] If this deletes, target is sent flying back, damaging everyone and everything in their path. (Dangerous)  
 **FootStomp** [Rush | 2 Damage | Near] Jump onto and crush an enemy. Spend 1 Speed to add another target in range of the enemy.  
-**IceSlasher** [Shot | 2 Damage | Near] Enemies deleted by this turn into frozen blocks shortly afterwards.
+**IceSlasher** [Shot | 2 Damage | Near] Enemies deleted by this turn into frozen blocks shortly afterwards.  
 **Homing Torpedo** [Shot | 1 Damage | Far] Defending against this attack is always Hard. Can find and hit invisible targets.  
-**SyringeBullet** [Shot | 1 Damage | Near] Dubious medicine! On hit, pick 1: Target falls asleep, vision turns hazy, can't stop coughing, subtracts 1 Stamina. (Piercing)
+**SyringeBullet** [Shot | 1 Damage | Near] Dubious medicine! On hit, pick 1: Target falls asleep, vision turns hazy, can't stop coughing, subtracts 1 Stamina. (Piercing)  
 **Insert** [Summon | Close] Creates a large amount of an ally’s element. (Slow)  
-**RiskyHoney** [Summon | 2 Damage | Close] Summons a beehive that attacks and makes noise when approached.
+**RiskyHoney** [Summon | 2 Damage | Close] Summons a beehive that attacks and makes noise when approached.  
 **Sensor** [Summon | 1 Damage | Close] Creates a motion-sensing eye that stuns the first enemy it sees and alerts your Navi. (Accurate)  
-**EggShell** [Support] Reduces the next attack by 1. If hit by a melee attack, shatters & deals 2 DMG to the attacker. (Guard, Slow)
+**EggShell** [Support] Reduces the next attack by 1. If hit by a melee attack, shatters & deals 2 DMG to the attacker. (Guard, Slow)  
 **PowerCapsule** [Support] Next rolled attack briefly (pick 1): slows movement; blinds; blocks healing HP. (Simple)  
 **DiceBomb** [Thrown | X Damage | Near] A randomized attack! X=Roll 2d6, use the lowest value as your damage.  
-**FastBall** [Thrown | 1 Damage | Near] A bouncing baseball! If it bounces off the wall, strikes a random target for +2 DMG. (Accurate)
+**FastBall** [Thrown | 1 Damage | Near] A bouncing baseball! If it bounces off the wall, strikes a random target for +2 DMG. (Accurate)  
 **StickyStick** [Thrown | 2 Damage | Near] Tosses a 10-foot pole. Sticks to whatever it hits; difficult to break. (Awkward)  
 **YamatoRush** [Wave | 2 Damage | Near] Spear soldiers rush! Spend 1 Bravery: upshift the defense or have the soldiers linger after.  
 
@@ -46,7 +46,7 @@ BattleChips
 **ColdPunch** [Impact | 2 Damage | Close] Spend 1 Strength to pick 1: upshifts target’s next Body roll; creates ice around your hands. (Slow)
 **KnuckleSpikes** [Impact | 2 Damage | Close] Can instead be used to climb a solid surface or rapidly burrow through soft ground.  
 **RewindDash** [Rush | Near] Move a range band; damaged structures/objects you touch are returned to their original state.  
-**SharkAttack** [Summon | 3 Damage | Near] A shark Virus prowls the area. If a target is injured or fails a Bravery roll when it is Close, it attacks them. (Dangerous, Piercing)
+**SharkAttack** [Summon | 3 Damage | Near] A shark Virus prowls the area. If a target is injured or fails a Bravery roll when it is Close, it attacks them. (Dangerous, Piercing)  
 **GeminiTwin** [Support] Holo-clone! Upshift the next 3 attacks on you. If they use a BattleChip, take -1 dmg instead. (Guard, Slow)  
 **Recover4** [Support] Recover four HP.  
 **AirBomb** [Thrown | 2 Damage | Near] Moves the target and everyone Close to them one range band - choose the direction. (Awkward, Dangerous)  
